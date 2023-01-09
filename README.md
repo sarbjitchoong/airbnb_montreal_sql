@@ -28,3 +28,9 @@ These are top 5 listings with review scores of 5.
 <br> 1. Top responders - host name and host url that respond within an hour.
 <br> 2. All price ranges in Montreal 
 <br> 3. List of all property types in the listing
+
+## 🌏 Conclusion
+All the goals for the SQL project were met and we were clearly able to distinguish the top most profitable Airbnb accommodations in Montréal. 
+
+## 🔸 Credits
+[Mahmoud El Hazzouri](https://github.com/melhazzouri), [Amir Roshani](https://github.com/AmirRoshaniMoghaddam), [Sarb Choong](https://github.com/sarbjitchoong)
