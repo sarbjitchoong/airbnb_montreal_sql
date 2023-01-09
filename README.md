@@ -23,3 +23,8 @@ These are list of Airbnb units that were rated low for cleanliness and might be 
 ## 💯 Accommodations with top rated review scores
 These are top 5 listings with review scores of 5.
 <img src="./assets/third.png" style="max-width: 540px"/>
+
+## 🌟 Other queries are also available for the following questions:
+<br> 1. Top responders - host name and host url that respond within an hour.
+<br> 2. All price ranges in Montreal 
+<br> 3. List of all property types in the listing
