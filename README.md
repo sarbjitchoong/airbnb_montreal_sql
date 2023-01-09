@@ -33,4 +33,4 @@ These are top 5 listings with review scores of 5.
 All the goals for the SQL project were met and we were clearly able to distinguish the top most profitable Airbnb accommodations in Montréal. 
 
 ## 🔸 Credits
-[Mahmoud El Hazzouri](https://github.com/melhazzouri), [Amir Roshani](https://github.com/AmirRoshaniMoghaddam), [Sarb Choong](https://github.com/sarbjitchoong)
+[Sarbjit Choong](https://github.com/sarbjitchoong), [Mahmoud El Hazzouri](https://github.com/melhazzouri), [Amir Roshani](https://github.com/AmirRoshaniMoghaddam)
